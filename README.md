@@ -1,7 +1,11 @@
 # used technologies 
+* **html**
+* **css**
+* **bootstrap**
+* **vue.js**
+* **vue cli**
 
 # website screen shots 
-
 ## show posts page 1
 ![Capture3](https://user-images.githubusercontent.com/24479105/65816800-a190a780-e200-11e9-9101-c28b0f50b24d.PNG)
 
