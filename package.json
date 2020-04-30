@@ -15,7 +15,7 @@
     "@fortawesome/vue-fontawesome": "^0.1.6",
     "bootstrap": "^4.3.1",
     "firebase": "^6.3.1",
-    "jquery": "^3.4.1",
+    "jquery": "^3.5.0",
     "popper.js": "^1.15.0",
     "resource": "^0.8.1",
     "vue": "^2.5.11",
